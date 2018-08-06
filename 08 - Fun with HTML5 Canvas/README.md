@@ -23,4 +23,6 @@ const ctx = canvas.getContext('2d');
 
 6.将起点和终点连起来 `ctx.stroke();`
 
+# 提示
+
 在这里如果句尾不加封号的话会报错
